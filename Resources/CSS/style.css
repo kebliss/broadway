@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#header,
+#ny {
+  background-image: url("/Users/kaitlinebliss/documents/Coding Projects/broadway/resources/Images/the-flatiron-building.png");
+}
+
+#header,
+#ny,
+#footer,
+a {
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+a {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+ font-size: 14px;
+}
+
+#footer {
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+}
